@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Twigo](https://github.com/Animesh-456/Twigo)**
+- 🔭 Recently completed project **[Twigo](https://github.com/Animesh-456/Twigo)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
