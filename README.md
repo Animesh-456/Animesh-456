@@ -1,8 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/Animesh-456/My-Website/blob/main/assets/img/hero-bg.jpg" height="175px"/></a>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Animesh</h1>
 <h3 align="center">Web developer, programmer</h3>
-
 
 ## 🙋‍♂️ About Me
 
@@ -15,6 +16,17 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://animesh-456.github.io/My-Website/)**
 
 - 📫 How to reach me **anim29006@gmail.com**
+
+<br>
+
+<table>
+
+![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animesh-456&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh-456&layout=compact)](https://github.com/Animesh-456/github-readme-stats)
+
+</table>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Animesh-456&theme=dark)](https://git.io/streak-stats)
 
 
 ## 🚀 Languages and Tools:
