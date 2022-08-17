@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Recently completed project **[Twigo](https://github.com/Animesh-456/Twigo)**
+- 🔭 Currently working on **[Celery & Wings](https://github.com/Animesh-456/Restaurant-Application)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
