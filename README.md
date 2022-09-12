@@ -24,8 +24,10 @@
 <!-- ![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animesh-456&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh-456&layout=compact&theme=radical) -->
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Animesh-456&theme=radical)
+## Activity Graph:
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Animesh-456&theme=redical)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Animesh-456&theme=radical)
 </table>
 
 
