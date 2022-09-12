@@ -26,8 +26,8 @@
 
 ## Stats:
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Animesh-456&theme=radical"> <img src="https://github-readme-stats.vercel.app/api?username=Animesh-456&show_icons=true&theme=radical"> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suparno-0069&langs_count=69&theme=radical&layout=compact">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Animesh-456&theme=radical"> <img src="https://github-readme-stats.vercel.app/api?username=Animesh-456&show_icons=true&theme=radical"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh-456&theme=radical&layout=compact">
 </div>
 
 
