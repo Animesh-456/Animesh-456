@@ -21,13 +21,16 @@
 
 <table>
 
-<!-- ![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animesh-456&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh-456&layout=compact&theme=radical) -->
-
 ## Activity Graph:
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Animesh-456&theme=redical)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Animesh-456&theme=radical)
+## Stats:
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Animesh-456&theme=radical"> <img src="https://github-readme-stats.vercel.app/api?username=Animesh-456&show_icons=true&theme=radical"> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suparno-0069&langs_count=69&theme=radical&layout=compact">
+</div>
+
+
 </table>
 
 
