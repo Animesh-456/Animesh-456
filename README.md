@@ -22,7 +22,12 @@
 <table>
 
 ## Activity Graph:
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Animesh-456&theme=redical)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Animesh-456&bg_color=1b181a&color=47db29&line=cbce12&point=67d095&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Contribution Chart
+
+![image](https://user-images.githubusercontent.com/66238964/232751447-c1ca0801-9ae8-4752-8344-1f54f2092f94.png)
+
 
 ## Stats:
 <div align="center">
