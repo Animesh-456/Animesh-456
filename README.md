@@ -22,7 +22,7 @@
 <table>
 
 ## Activity Graph:
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Animesh-456&theme=redical)
+![Activity Graph][graph]
 
 ## Stats:
 <div align="center">
