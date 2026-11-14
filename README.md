@@ -19,10 +19,3 @@ I'm a Full Stack Developer with 3+ years of experience building, deploying, and 
 - **Monitoring:** Prometheus, Grafana  
 
 ---
-
-## 📫 Connect With Me
-
-- 💼 Open to opportunities in **Backend / DevOps / Cloud roles**
-- 📧 Email: [anim29006@gmail.com](mailto:anim29006@gmail.com)
----
-
