@@ -10,22 +10,15 @@ I'm a Full Stack Developer with 3+ years of experience building, deploying, and 
 
 ### 👨‍💻 Development
 - **Frontend:** React.js, Next.js  
-- **Backend:** Node.js, TypeScript, NestJS  
-- **Databases:** MySQL, PostgreSQL  
-- **API:** REST APIs, Webhooks, OAuth  
+- **Backend:** Node.js, Javascript, TypeScript   
+- **Databases:** MySQL, MariaDB, PostgreSQL    
 
 ### ⚙️ DevOps & Cloud
-- **Cloud:** AWS (EC2, ECS, S3, ALB, Lambda, RDS. SQS)  
+- **Cloud:** AWS (EC2, ECS, S3, ALB, Lambda, RDS, SQS, SES)  
 - **Infrastructure as Code:** Terraform  
 - **Containers:** Docker  
 - **CI/CD:** GitHub Actions  
 - **Monitoring:** Prometheus, Grafana  
-
-### 🔧 Tools & Others
-- Git, GitHub  
-- Nginx, PM2  
-- Cloudinary / AWS S3  
-- Stripe / PayPal Integration  
 
 ---
 
