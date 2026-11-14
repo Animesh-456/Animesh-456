@@ -1,5 +1,3 @@
-# Animesh Mondal  
-
 ## 💼 About Me
 
 I'm a Full Stack Developer with 3+ years of experience building, deploying, and scaling production-ready applications, with a strong focus on DevOps, AWS cloud infrastructure, CI/CD automation, and building reliable, scalable systems.
